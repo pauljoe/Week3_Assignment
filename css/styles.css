@@ -1,0 +1,143 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #0088ff;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+	background-color: #d2d2d2;
+	border-radius: 0;
+	border: 0;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+
+
+
+.navbar-brand h1 {
+	font-family: font-family: 'Lora', serif;
+	color: #521824;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 10px;
+	line-height: .75;
+}
+
+
+
+
+
+
+/*start of styling the menu nav list items*/
+
+#nav-list {
+	margin-top: 10px;
+}
+
+#nav-list a {
+	color: #521824;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: #e7e7e7;
+}
+
+
+
+
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -45px;
+}
+
+/**************************Responsive***************************************/
+/******************************Large Devices Only *****************************/
+
+@media (min-width: 1200px) {
+	
+}
+
+/******************************Medium devices only*****************************/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+}
+
+/********************************Small devices only****************************/
+
+@media (min-width: 768px) and (max-width: 991px) {
+	
+}
+
+/*******************************extra small devices only************************/
+
+
+@media (max-width: 767px) {
+
+	
+}
+
+
+
+
+
+/********************style the menu items glyphicons and text the same size***********/
+
+#collapsable-nav a {
+	font-size: 1.3em;
+}
+
+section {
+	height: 1000px;
+	color: #0088FF;
+	background-color: #eee;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+h1 {
+	margin-bottom: 75px;
+	margin-top: 75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
